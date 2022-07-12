@@ -19,7 +19,8 @@
     "nias": "npx tailwindcss -i ./src/input.css -o ./SUMATERA/nias/output.css --watch",
     "bangka": "npx tailwindcss -i ./src/input.css -o ./SUMATERA/bangka/output.css --watch",
     "toraja": "npx tailwindcss -i ./src/input.css -o ./SULAWESI/toraja/output.css --watch",
-    "dayak": "npx tailwindcss -i ./src/input.css -o ./KALIMANTAN/dayak/output.css --watch"
+    "dayak": "npx tailwindcss -i ./src/input.css -o ./KALIMANTAN/dayak/output.css --watch",
+    "asmat": "npx tailwindcss -i ./src/input.css -o ./PAPUA/asmat/output.css --watch"
   },
   "keywords": [],
   "author": "",

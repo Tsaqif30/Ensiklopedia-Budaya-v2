@@ -1,6 +1,6 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
-  content: ['index.html', './JAWA/*.{html,js}', './SUMATERA/*.{html,js}', './SULAWESI/*.{html,js}', './KALIMANTAN/*.{html,js}'],
+  content: ['index.html', './JAWA/*.{html,js}', './SUMATERA/*.{html,js}', './SULAWESI/*.{html,js}', './KALIMANTAN/*.{html,js}', './PAPUA/*.{html,js}'],
   theme: {
     container: {
       center: true,
