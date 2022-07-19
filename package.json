@@ -6,6 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch",
+    "index_jawa": "npx tailwindcss -i ./src/input.css -o ./JAWA/index/output.css --watch",
     "jawa": "npx tailwindcss -i ./src/input.css -o ./JAWA/jawa/output.css --watch",
     "betawi": "npx tailwindcss -i ./src/input.css -o ./JAWA/betawi/output.css --watch",
     "sunda": "npx tailwindcss -i ./src/input.css -o ./JAWA/sunda/output.css --watch",
