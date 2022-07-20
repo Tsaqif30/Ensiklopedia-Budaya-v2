@@ -16,7 +16,7 @@
     "osing": "npx tailwindcss -i ./src/input.css -o ./JAWA/osing/output.css --watch",
     "tengger": "npx tailwindcss -i ./src/input.css -o ./JAWA/tengger/output.css --watch",
     "badui": "npx tailwindcss -i ./src/input.css -o ./JAWA/badui/output.css --watch",
-    "banten": "npx tailwindcss -i ./src/input.css -o ./JAWA//output.css --watch",
+    "banten": "npx tailwindcss -i ./src/input.css -o ./JAWA/banten/output.css --watch",
     "awal": "npx tailwindcss -i ./src/input.css -o ./SUMATERA/awal/output.css --watch",
     "melayu": "npx tailwindcss -i ./src/input.css -o ./SUMATERA/dist/output.css --watch",
     "minang": "npx tailwindcss -i ./src/input.css -o ./SUMATERA/minang/output.css --watch",
