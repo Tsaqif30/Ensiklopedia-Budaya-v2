@@ -1803,10 +1803,6 @@ video {
     display: inline;
   }
 
-  .xl\:w-1\/5{
-    width: 20%;
-  }
-
   .xl\:w-1\/4{
     width: 25%;
   }
@@ -1815,11 +1811,21 @@ video {
     width: 50%;
   }
 
+  .xl\:w-1\/5{
+    width: 20%;
+  }
+
   .xl\:pb-32{
     padding-bottom: 8rem;
   }
 
   .xl\:opacity-100{
     opacity: 1;
+  }
+}
+
+@media (min-width: 1536px){
+  .\32xl\:w-1\/5{
+    width: 20%;
   }
 }

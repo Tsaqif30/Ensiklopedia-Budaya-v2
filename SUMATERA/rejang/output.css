@@ -1823,3 +1823,9 @@ video {
     opacity: 1;
   }
 }
+
+@media (min-width: 1536px){
+  .\32xl\:w-1\/5{
+    width: 20%;
+  }
+}
